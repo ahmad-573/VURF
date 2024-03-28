@@ -12,7 +12,7 @@
 ---
 
 ## 📢 Latest Updates
-- **Mar-26-24**: VURF paper uploaded on arXiv. Code and demo are coming soon!
+- **Mar-26-24**: VURF paper uploaded on arXiv. Code will be released soon!
 
 
 ## 📜 Citation
