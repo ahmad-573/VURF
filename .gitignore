@@ -1,0 +1,21 @@
+*.txt
+# ignore an pytorch models
+*.pth
+*.pt
+*.pkl
+*.mp4
+*.jpg
+*.jpeg
+*.png
+
+out_vis
+frames/
+frames_blur/
+frames_color/
+frames_output/
+sum_test/
+tests/
+
+Video_ChatGPT/
+Video_Fall/
+Video_Pose/
