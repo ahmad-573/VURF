@@ -13,6 +13,7 @@
 
 ## 📢 Latest Updates
 - **Mar-26-24**: VURF paper uploaded on arXiv. Code will be released soon!
+- **Dec-13-24**: Interpreters for video functions added.
 
 
 ## 📜 Citation
